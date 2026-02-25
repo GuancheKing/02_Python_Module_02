@@ -32,7 +32,7 @@ def water(plant: str) -> None:
     print(f"Watering {plant}")
 
 
-def test_watering_system():
+def test_watering_system() -> None:
     """
     Tests normal and error scenarios for the watering system.
     """
