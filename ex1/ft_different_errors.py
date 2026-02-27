@@ -1,4 +1,4 @@
-def garden_operations(error_type: str):
+def garden_operations(error_type: str) -> None:
     """
     Triggers specific common Python errors depending on error_type.
     """
